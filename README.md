@@ -1,6 +1,6 @@
 # Hola, soy Angel Luciano 👋
 
-### 🚀 Co-fundador @ Apesconsultants | Desarrollador de Software | Diseñador
+### 🚀 Co-fundador @Apesconsultants | Desarrollador de Software | Diseñador
 
 Más que escribir código, me dedico a **construir soluciones**. Mi pasión está en el punto medio donde el diseño se encuentra con la funcionalidad para automatizar procesos y hacer crecer negocios.
 
