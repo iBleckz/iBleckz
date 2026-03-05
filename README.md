@@ -1,24 +1,36 @@
-# Hola, soy Angel!
+# Hola, soy Angel Luciano 👋
 
-Tec. en diseño gráfico y pronto Ing. en desarrollo de software.
-Actualmente, trabajo desarrollando una plataforma de logística.
-Me dedico al desarrollo de apps, diseño gráfico, publicidad y redes sociales, todo el paquete para hacer crecer un negocio.
+### 🚀 Co-fundador @ Apesconsultants | Desarrollador de Software | Diseñador
 
-# Experiencia laboral
+Más que escribir código, me dedico a **construir soluciones**. Mi pasión está en el punto medio donde el diseño se encuentra con la funcionalidad para automatizar procesos y hacer crecer negocios.
 
-**Areas México**
->Diseñador gráfico JR y desarrollo de menús web para franquicias de comida rapida
+Actualmente, lidero la transformación digital en logística y construyo mis propios productos SaaS.
 
-**iStrategy**
->Diseñador gráfico para campañas politicas
+---
 
-**DNLogistics**
->Desarrollo de software de Logistica y manejo de redes sociales
+### 💼 Lo que estoy construyendo ahora
 
-De igual manera, he trabajado proyectos como freelance para muchas empresas mas.
+**🏛 Cofundador en Apesconsultants**
+Consultoría en procesos y automatización. Aquí nacen proyectos como:
+* **APE TMS:** Sistema de gestión de transporte (TMS).
+* **Renta.click:** Plataforma tipo Airbnb para rentas locales.
+* **Pagaloseguro:** Soluciones de pago y confianza.
 
-## Estudios
+**📦 Head of Digital Area en DNLogistics**
+Lideré el desarrollo e implementación de una solución **TMS/ERP personalizada** que transformó la operación de la empresa, optimizando actividades y garantizando la seguridad y control de datos que antes no existían.
+* También participé activamente en la arquitectura de **CargaApp**.
 
-**Cecyteh** - Técnico en Diseño gráfico
+---
 
-**UVEG** - Ingeniería en Desarrollo de Software
+### 🛠 Mis Proyectos Personales
+* **Bizvanx:** Plataforma de administración para freelancers.
+* **Bleckz:** Mi marca personal de diseño y desarrollo.
+
+### 🎓 Formación
+* **Ingeniería en Desarrollo de Software** - UVEG (En curso)
+* **Técnico en Diseño Gráfico** - Cecyteh
+
+---
+> *"Diseño, desarrollo y estrategia: todo el paquete para hacer crecer una idea."*
+
+[Email](mailto:angel.luciano@apesconsultants.com)  [LinkedIn](https://www.linkedin.com/in/angel-luciano-07498b321/)
